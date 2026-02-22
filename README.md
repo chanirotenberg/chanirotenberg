@@ -21,5 +21,5 @@ Strong in clean code, structured development, and practical system design.
 - Working with professional Git & GitHub workflows
 
 ### 📫 Contact
-- Email: your@email.com  
-- LinkedIn: https://linkedin.com/in/your-profile
+- Email: c0583212923@gmail.com
+- Phone: 058-3212923
