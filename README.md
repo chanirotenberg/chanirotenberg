@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi 👋 I'm Chani Hildesheimer
 
-<!--
-**chanirotenberg/chanirotenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with hands-on experience in building end-to-end web systems.  
+Strong in clean code, structured development, and practical system design.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- Backend: Node.js, C#, .NET
+- Frontend: React, HTML, CSS
+- Databases: SQL / NoSQL
+- Tools & Practices: Git, GitHub, REST APIs, CI/CD, OOP, Design Patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 What you'll find here
+- Full-stack and backend projects
+- Academic projects refactored into real-world systems
+- Clean architecture and well-structured repositories
+- Focus on readability, maintainability, and best practices
+
+### 📌 Currently focusing on
+- Writing production-level code
+- Improving system design and scalability
+- Working with professional Git & GitHub workflows
+
+### 📫 Contact
+- Email: your@email.com  
+- LinkedIn: https://linkedin.com/in/your-profile
